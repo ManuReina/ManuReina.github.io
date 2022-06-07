@@ -7,29 +7,29 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Sin Nombre
 
-**Web:**   (url github.io)
+**Web:**   ManuReina.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Manuel Reina Ortega
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Eres un robot tipo tanque que disparas haciendo paium paium y matas cosas.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 1920px X 1080px. No reescalable.
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Hippani y Microsoft Edge(No funciona correctamente la segunda fase y las pantallas de game over)
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 20.6Mb
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 07/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -46,7 +46,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+El menu principal es un campamento donde interaccionando con diversos elementos puedes seleccionar un personaje y salir a completar una mision.
 
 
 
@@ -72,20 +72,18 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+La principal inspiracion son los Beat em Up de recreativas.
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
+Aprender a usar lo maximo posible Hippani y la logica detras de un lenguaje de programacion, por ello he intentado maximizar la interactividad de mi proyecto.
 
 
 **Publico / audiencia**
 
-- Orientado a 
+Es un proyecto realizado para mi mismo.
 
 
 
@@ -95,25 +93,25 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juego: Movilidad del personaje y enemigos, disparo del personaje y enemigos, hitboxes, sistema de vida y puntuacion, etc.
+- Video : Botones de Play, Pause, Stop, Restart y control del audio.
+- Configuracion de Audio: Control de Volumen y Seleccion de pista,
+- Menús y elementos de navegación: Diversos botones para moverte entre los menus, boton para activar y desactivar la musica.
+-
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Dentro de Hippani funciona casi todo correctamente, lo unico es que al intentar volver a jugar despues de completar la pantalla una vez pueden suceder diversos bugs. Creo que se deben a que no estan correctamente reiniciados todos los elementos que se utilizan durante el juego.
+
+En el navegador (Microsoft Edge) la segunda pantalla del juego se acelera y cuando llegas a la pantalla de game over el juego deja de responder.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
+Me gustaria para la proxima vez usar un software con menos limitacionespues muchas ideas no he podido implementarlas al no poder usar todos los comandos de javascript, hippani es un software abandonado por su creador. Aun asi ha sido una experiencia muy divertida y estoy contento con el resultado conseguido.
 
 
 
