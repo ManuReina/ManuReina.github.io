@@ -13,7 +13,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Manuel Reina Ortega
 
-**Resumen** : Eres un robot tipo tanque que disparas haciendo paium paium y matas cosas.
+**Resumen** : Controlas un robot que debe destruir una torreta al final del nivel.
 
 **Estilo/género:**  Juego
 
@@ -38,27 +38,17 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
-
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-
-
+![storyboard menu](https://user-images.githubusercontent.com/106830379/172732675-92244350-4c22-43f9-b887-db70ddd5adf3.png)
 
 El menu principal es un campamento donde interaccionando con diversos elementos puedes seleccionar un personaje y salir a completar una mision.
 
 
 
 ### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
+![Esquema](https://user-images.githubusercontent.com/106830379/172732705-01992d76-51ca-4760-8d39-15ed82c3efda.png)
 
 
 
