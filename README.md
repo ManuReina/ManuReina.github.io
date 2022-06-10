@@ -68,7 +68,7 @@ La principal inspiracion son los Beat em Up de recreativas.
 
 **Motivación de la propuesta** 
 
-Aprender a usar lo maximo posible Hippani y la logica detras de un lenguaje de programacion, por ello he intentado maximizar la interactividad de mi proyecto.
+Aprender a usar lo maximo posible Hippani y la logica detras de un lenguaje de programacion, por ello he intentado añadir el maximo de ideas que se me han ocurrido y he sido capaz de solucionar.
 
 
 **Publico / audiencia**
@@ -87,7 +87,7 @@ Es un proyecto realizado para mi mismo.
 - Video : Botones de Play, Pause, Stop, Restart y control del audio.
 - Configuracion de Audio: Control de Volumen y Seleccion de pista,
 - Menús y elementos de navegación: Diversos botones para moverte entre los menus, boton para activar y desactivar la musica.
--
+
 
 
 
